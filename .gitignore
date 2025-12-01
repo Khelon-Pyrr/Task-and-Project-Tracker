@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Tt]est[Rr]esult.xml
+*.VisualState.xml
+
+# User-specific files
+*.rsuser
+*.dbmdl
+
+# Other
+*.Cache
+ClientBin/
+~$*
+*.bak
+*.ncb
+*.opendb
+*.sdf
+*.cache
+*.VC.db
+*~
+log.txt
+report.txt
+tasks.json
+*.csproj.user
+/Task & Project Tracker/bin/Debug/net8.0/
+/Task & Project Tracker.Tests/bin/Debug/net8.0/
+/Task & Project Tracker.Tests/TestResults/
