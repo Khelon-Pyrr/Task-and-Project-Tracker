@@ -67,7 +67,7 @@ This application addresses the need for lightweight, efficient task management i
 1. Open a terminal in the project directory
 2. Navigate to the solution folder:
    ```bash
-   cd "c:\Users\Admin\Downloads\Pj 822 khelon\Deliverables\Task & Project Tracker"
+   cd "c:\Users\Admin\Downloads\bi81xp\Deliverables\Task & Project Tracker"
    ```
 3. Run the application:
    ```bash
